@@ -9,7 +9,7 @@ This code can do multiple tasks like
 3. Classify dogs into 133 trained breeds.
 
 
---> cnn_gpu.py
+--> cat_vs_dog.py
 The code is for the classification of images of Dog and Cat.
 The code was run on Goolge Colab. The dataset can be found here.
 https://www.kaggle.com/c/dogs-vs-cats/data
@@ -17,5 +17,14 @@ https://www.kaggle.com/c/dogs-vs-cats/data
 Various CNN architectures like 
 VGG16,   VGG19,   Inception,   Exception,    Resnet50  are used.
 
+
+--> dog_breed.py
+This code uses pretrained Resnet50 Model to classify breeds of dog.
+
+-->face_detection_webcam
+
+The real time face and eyes detection through webcam is implemented in this code. 
+xml files can be found here
+https://github.com/opencv/opencv/tree/master/data/haarcascades.
 
 --> 
