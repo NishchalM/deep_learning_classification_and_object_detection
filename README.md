@@ -2,4 +2,8 @@
 These  python codes are a part of a project that "Object Detection and Classification" of our Minor Project. They can be used for reference for any upcoming projects
 
 
---> 
+--> Human_face_dog_breed_classification.py  
+This code can do multiple tasks like
+1. Differntiate between a human face and a dog image.
+2. Create a bounding box around the face detected.
+3. Classify dogs into 133 trained breeds.
