@@ -1,5 +1,5 @@
 # deep_learning_classification_and_object_detection
-These  python codes are a part of a project that "Object Detection and Classification" of our Minor Project. They can be used for reference for any upcoming projects
+These  python codes are a part of the project  "Object Detection and Classification" of our Minor Project. They can be used for reference for any upcoming projects
 
 
 --> Human_face_dog_breed_classification.py  
