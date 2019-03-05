@@ -27,4 +27,6 @@ The real time face and eyes detection through webcam is implemented in this code
 xml files can be found here
 https://github.com/opencv/opencv/tree/master/data/haarcascades.
 
---> 
+--> image_predict.py
+Add  https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/DenseNet-BC-121-32.h5
+for h5 data. This is the trained model which helps to apply its learnt algorithm to new image.
